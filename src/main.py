@@ -45,7 +45,6 @@ try:
     tikers = {
         'apple': 'AAPL',
         'facebook':'FB',
-        'micro soft': 'MSFT',
         'google': 'GOOGL',
         'netflix': 'NFLX',
         'amazon': 'AMZN'
